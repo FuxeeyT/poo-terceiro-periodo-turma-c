@@ -1,22 +1,81 @@
+# Destaques - Geral✨
+
+Abaixo, os melhores alunos, apresentando um domínio do conteúdo abordado, suas contribuições são verdadeiramente dignas de reconhecimento e admiração.
+
+* **Bernardo Vascelai Smarczewski**
+* João Vítor Gonçalves Da Costa
+* Rafael Roani Gonçalves
+* Guilherme Dudu Berti
+* Maria Júlia Gonçalves Raposo Do Nascimento
+* Marcelo Piluski Pozzobon
+* Kauê Andrade Padilha
+
+> Todos com nota superior a 9,3*
+
+Parabéns a todos, continuem assim que estão no caminho certo🚀
+
+---
+
+# Melhores testemunhos🗣
+
+![testimonials](https://github.com/Sandrolaxx/frostNext/assets/61207420/e554f97e-3388-4222-b4b9-c6e1abad2926)
+
+# Destaques do Repo - Segundo BI🏆
+
+Aqui está a lista dos principais colaboradores deste repositório no segundo bimestre. Eles se destacaram pela excelência de suas contribuições, dedicação constante e entendimento abrangente dos conceitos discutidos.
+
+* **Bernardo Vascelai Smarczewski**
+* **Guilherme Dudu Berti**
+* **João Vítor Gonçalves Da Costa**
+* Kauê Andrade Padilha
+* **Marcelo Piluski Pozzobon**
+* **Maria Júlia Gonçalves Raposo Do Nascimento**
+* **Rafael Roani Gonçalves**
+
+---
+
+# Destaques do Repo - Primeiro BI🏆
+
+Abaixo a lista dos melhores alunos que colaboram com este repositório. Os alunos se destacaram na qualidade de suas entregas, comprometimento em sala e compreensão do conteúdo de Programação Orientada a Objetos.
+
+* **Bernardo Vascelai Smarczewski**
+* Gabriel De Lima Figueiredo
+* Giullia Ortiz Vilanova
+* Guilherme Dudu Berti
+* Igor Felipe Lemes Da Silva
+* **João Vítor Gonçalves Da Costa**
+* **Kauê Andrade Padilha**
+* Kauê Orlandini
+* **Marcelo Piluski Pozzobon**
+* **Rafael Roani Gonçalves**
+* **Ricardo Diniz Silva**
+
+Caso você esteja nesse pódio, você está no caminho certo! Continue se esforçando! Seu eu do futuro irá lhe agradecer.
+
+---
+
 # ☕ Desenvolvimento Orientado a Objetos
 
 ### Comandos GIT
 
 IMPORTANTE ESTAR com o GITBASH NA PASTA DO REPO(eng-soft-poo-terceiro-periodo)
 
-Clonar o repo localmente
+Clonar o repo localmente(SOMENTE SE NÃO TEM O REPO LOCALMENTE)
 > git clone + link do repo
+
+Puxar as alterações do repositório(LAMBRAR DE DAR SYNC NO SEU FORK!)
+> git pull
 
 Adicionar alterações
 > git add .
 
 Adicionar comitar localmente arquivos alterados
-> git commit -m
+> git commit -m "mensagem do commit"
 
 Enviar para upstream(repositório remoto)
 > git push
 
-CASO USUÁRIO NÃO CONFIGURADO
+**CASO USUÁRIO NÃO CONFIGURADO**
 
 Configurar usuário global na máquina
 > git config --global user.name "nomeUSerGit"
